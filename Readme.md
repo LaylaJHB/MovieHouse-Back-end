@@ -49,7 +49,7 @@ Sistema de Filmes
   * [https://barros-labecommerce-backend27-5-ohio.onrender.com](https://barros-labecommerce-backend27-5-ohio.onrender.com/)
   * [https://barros-labecommerce-backend27-5-ohio.onrender.com/character](https://barros-labecommerce-backend27-5-ohio.onrender.com/character)
     <br>
-`Os links acima serão atualizados`
+`Observação: Os links acima serão atualizados`
 ---
 
 ## 🛰Rodando o Projeto
