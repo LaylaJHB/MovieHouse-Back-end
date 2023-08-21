@@ -70,7 +70,8 @@ Desenvolver API para gerenciamento de um E-commerce
 * **Link do Render:**
   * [https://barros-labecommerce-backend27-5-ohio.onrender.com](https://barros-labecommerce-backend27-5-ohio.onrender.com/)
   * [https://barros-labecommerce-backend27-5-ohio.onrender.com/character](https://barros-labecommerce-backend27-5-ohio.onrender.com/character)
-
+    <br>
+`Observação: Os links acima serão atualizados`
 ---
 
 ## 🛰Rodando o Projeto
