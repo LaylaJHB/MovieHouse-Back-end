@@ -1,8 +1,6 @@
-# MovieHouse-back-end
-
 # Movie House
 
-#### .
+####
 
 ---
 
@@ -30,17 +28,9 @@ Esse projeto foi desenvolvido com as seguintes ferramentas e tecnologias:
 
 ## 🧵Endpoints
 
-* createCaracter: cadastrar filme e suas informações
-* getAllCaracters: buscar todos os filmes e suas respectivas informações
-* deleteCaracter: deletar filme e suas informações
-
-## 🧑‍🚀Desenvolvedor
-
-* Layla Janaína Hissa Borges
-
----
-
-## 🔠Conteúdos
+* `createCaracter:` cadastrar filme e suas informações
+* `getAllCaracters:` buscar todos os filmes e suas respectivas informações
+* `deleteCaracter:` deletar filme e suas informações
 
 ---
 
@@ -88,6 +78,9 @@ Para Rodar o projeto, siga as seguintes etapas :
 * Rode o comando `npm start` no terminal
 
 ---
+## 🧑‍🚀Desenvolvedor
+
+* Layla Janaína Hissa Borges
 
 ## 📝Sobre a Licença
 
