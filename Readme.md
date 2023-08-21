@@ -8,11 +8,33 @@
 
 ## 🕵Sobre
 
-Sistema de Filmes.
+API REST desenvolvida para gerenciamento do Banco de Dados MySQL de um E-commerce de filmes chamado Movie House. É possível cadastrar, consultar ou deletar filmes e suas respectivas informações cadastradas no Banco de Dados da Movie House.
+
+## 🛠Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes ferramentas e tecnologias:
+
+* Node.js
+* Typescript
+* SQL
+* MySQL
+* API
+* Postman
+* Knex
+* Cors
+* Express
 
 ---
 
-## 👩🏾Colaborador
+
+
+## 🧵Endpoints
+
+* createCaracter: cadastrar filme e suas informações
+* getAllCaracters: buscar todos os filmes e suas respectivas informações
+* deleteCaracter: deletar filme e suas informações
+
+## 🧑‍🚀Desenvolvedor
 
 * Layla Janaína Hissa Borges
 
@@ -30,15 +52,15 @@ Sistema de Filmes.
 
 ## 🎯Objetivo do Projeto
 
-Sistema de Filmes
+Desenvolver API para gerenciamento de um E-commerce
 
 ## ☑️Requisitos de Funcionalidade
 
-* [X] Obter todas as informações presentes no Banco de Dados (BD)
-* [X] Aplicar filtros na busca de informações presentes no BD
-* [X] Realizar busca ordenada de modo a obter resultados em ordem cresc/descrescente
-* [X] Adicionar informações no Banco de Dados
-* [X] Deletar informações do Banco de Dados
+- [✅] Obter todas as informações presentes no Banco de Dados (BD)
+- [✅] Aplicar filtros na busca de informações presentes no BD
+- [✅] Realizar busca ordenada de modo a obter resultados em ordem cresc/descrescente
+- [✅] Adicionar informações no Banco de Dados
+- [✅] Deletar informações do Banco de Dados
 
 ---
 
@@ -56,7 +78,12 @@ Sistema de Filmes
 Para Rodar o projeto, siga as seguintes etapas :
 
 * Rode o comando `npm install`
-* Adicione os dados de conexão do seu Banco de Dados em um arquivo .env
+* Adicione os dados de conexão do seu Banco de Dados em um arquivo .env com as seguintes variáveis:
+  * `DB_HOST = `
+  * `DB_USER = `
+  * `DB_PASS = `
+  * `DB_NAME = `
+  * `PORT = 3306`
 * Rode o comando `npm start` no terminal
 
 ---
