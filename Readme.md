@@ -68,6 +68,8 @@ Desenvolver API para gerenciamento de um E-commerce
 
 Para Rodar o projeto, siga as seguintes etapas :
 
+* Acesse o terminal
+* Clone este repositório: `git clone https://github.com/LaylaJHB/MovieHouse-Back-end.git`
 * Rode o comando `npm install`
 * Adicione os dados de conexão do seu Banco de Dados em um arquivo .env com as seguintes variáveis:
   * `DB_HOST = `
