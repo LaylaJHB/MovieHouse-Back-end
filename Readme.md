@@ -68,16 +68,19 @@ Desenvolver API para gerenciamento de um E-commerce
 
 Para Rodar o projeto, siga as seguintes etapas :
 
-* Acesse o terminal
-* Clone este repositório: `git clone https://github.com/LaylaJHB/MovieHouse-Back-end.git`
-* Rode o comando `npm install`
-* Adicione os dados de conexão do seu Banco de Dados em um arquivo .env com as seguintes variáveis:
-  * `DB_HOST = `
+* **Acesse o terminal:** GitBash, Windows PowerShell ou outro
+  * **Clone esse repositório:** `git clone https://github.com/LaylaJHB/MovieHouse-Back-end.git`
+  * **Instale as dependências do projeto:** rode o comando `npm install`
+* **Crie um arquivo com nome .env no diretório raiz do projeto:** `touch .env`
+
+* **Acesse o arquivo .env, adicione as variáveis de ambiente e preencha as credenciais de acesso do seu Banco de Dados:**
+  * `DB_HOST = ` 
   * `DB_USER = `
   * `DB_PASS = `
   * `DB_NAME = `
   * `PORT = 3306`
-* Rode o comando `npm start` no terminal
+* **Acesse novamente o terminal**
+  * **Inicie o projeto:** rode o comando `npm start`
 
 ---
 ## 🧑‍🚀Desenvolvedor
