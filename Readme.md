@@ -28,15 +28,16 @@ Esse projeto foi desenvolvido com as seguintes ferramentas e tecnologias:
 
 ## 🧵Endpoints
 
-#### <div>🔺 MÉTODO: PUT &curarr;</div>
 ---
+#### <div>🔺 MÉTODO: PUT &curarr;</div>
+
 
 * Cadastrar filme e suas informações   <span class="badge badge-success">Success</span>
   
   ```
   https://movie-house-ecommerce.onrender.com/character
   ```
-
+---
 #### <div>🔻 MÉTODO: GET &curarr;</div>
   
 * Buscar todos os filmes e suas respectivas informações
@@ -47,6 +48,7 @@ Esse projeto foi desenvolvido com as seguintes ferramentas e tecnologias:
   ```
   https://movie-house-ecommerce.onrender.com/character?name=**movietitle**
   ```
+---
 #### <div>🔸 MÉTODO: DELETE &curarr;</div>
 
 * Deletar filme e suas informações
