@@ -83,7 +83,6 @@ Desenvolver API para gerenciamento de um E-commerce
 
 ## 🔗Deploy 
 
-<span style="#ff0000">cardeais</span>
 
 * Render: [Render: Cloud Application Hosting for Developers](https://render.com)
 
