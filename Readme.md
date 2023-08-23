@@ -45,7 +45,7 @@ Esse projeto foi desenvolvido com as seguintes ferramentas e tecnologias:
   ```
   https://movie-house-ecommerce.onrender.com/character/**id**
   ```
-
+- **Observação:** ** Nos endpoints de _"Buscar todos os filmes"_ e _"Deletar filmes e suas informações"_ substitua **_"movietitle"_** e **_"id"_** pelo nome do filme que deseja buscar e o id do filme que deseja deletar, respectivamente.
 ---
 
 ## 🧭Status do Projeto
