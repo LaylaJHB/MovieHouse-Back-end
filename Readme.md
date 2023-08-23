@@ -45,7 +45,7 @@ Esse projeto foi desenvolvido com as seguintes ferramentas e tecnologias:
   ```
   https://movie-house-ecommerce.onrender.com/character/**id**
   ```
-- **Observação:** ** Nos endpoints de _"Buscar todos os filmes"_ e _"Deletar filmes e suas informações"_ substitua **_"movietitle"_** e **_"id"_** pelo nome do filme que deseja buscar e o id do filme que deseja deletar, respectivamente.
+- **Observação:** ** Nos endpoints de _"Buscar todos os filmes"_ e _"Deletar filmes e suas informações"_ substitua **_"movietitle"_** e **_"id"_** pelo nome do filme que deseja buscar e o id do filme que deseja deletar, respectivamente. Para mais informações, acesse a documentação.
 ---
 
 ## 🧭Status do Projeto
@@ -68,14 +68,15 @@ Desenvolver API para gerenciamento de um E-commerce
 
 ---
 
-## 🔗Link para Acessar
+## 🔗Deploy
 
-* **Documentação da API no Postman:** [https://documenter.getpostman.com/view/22349688/2s8YzL5n1o](https://documenter.getpostman.com/view/22349688/2s8YzL5n1o)
-* **Link do Render:**
-  * [https://barros-labecommerce-backend27-5-ohio.onrender.com](https://barros-labecommerce-backend27-5-ohio.onrender.com/)
-  * [https://barros-labecommerce-backend27-5-ohio.onrender.com/character](https://barros-labecommerce-backend27-5-ohio.onrender.com/character)
-    <br>
-`Observação: Os links acima serão atualizados`
+* Render: [Render: Cloud Application Hosting for Developers](https://render.com)
+
+---
+## 🔗Documentação
+
+* **Documentação da API no Postman:** em desenvolvimento
+* **Ferramenta:** [Postman API Platform ](https://www.postman.com/)
 ---
 
 ## 🛰Rodando o Projeto
