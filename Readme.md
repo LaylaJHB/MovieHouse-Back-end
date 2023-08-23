@@ -28,9 +28,23 @@ Esse projeto foi desenvolvido com as seguintes ferramentas e tecnologias:
 
 ## 🧵Endpoints
 
-* `createCaracter:` cadastrar filme e suas informações
-* `getAllCaracters:` buscar todos os filmes e suas respectivas informações
-* `deleteCaracter:` deletar filme e suas informações
+* Cadastrar filme e suas informações
+  ```
+  https://movie-house-ecommerce.onrender.com/character
+  ```
+  
+* Buscar todos os filmes e suas respectivas informações
+  ```
+  https://movie-house-ecommerce.onrender.com/character?name= 
+  ```
+* Buscar um filme em específico pelo título do filme
+  ```
+  https://movie-house-ecommerce.onrender.com/character?name=**movietitle**
+  ```
+* Deletar filme e suas informações
+  ```
+  https://movie-house-ecommerce.onrender.com/character/**id**
+  ```
 
 ---
 
