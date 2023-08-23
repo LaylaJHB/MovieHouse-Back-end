@@ -28,10 +28,16 @@ Esse projeto foi desenvolvido com as seguintes ferramentas e tecnologias:
 
 ## 🧵Endpoints
 
-* Cadastrar filme e suas informações
+#### <div>🔺 MÉTODO: PUT &curarr;</div>
+---
+
+* Cadastrar filme e suas informações   <span class="badge badge-success">Success</span>
+  
   ```
   https://movie-house-ecommerce.onrender.com/character
   ```
+
+#### <div>🔻 MÉTODO: GET &curarr;</div>
   
 * Buscar todos os filmes e suas respectivas informações
   ```
@@ -41,10 +47,15 @@ Esse projeto foi desenvolvido com as seguintes ferramentas e tecnologias:
   ```
   https://movie-house-ecommerce.onrender.com/character?name=**movietitle**
   ```
+#### <div>🔸 MÉTODO: DELETE &curarr;</div>
+
 * Deletar filme e suas informações
+  
   ```
   https://movie-house-ecommerce.onrender.com/character/**id**
   ```
+
+
 - **Observação:** ** Nos endpoints de _"Buscar todos os filmes"_ e _"Deletar filmes e suas informações"_ substitua **_"movietitle"_** e **_"id"_** pelo nome do filme que deseja buscar e o id do filme que deseja deletar, respectivamente. Para mais informações, acesse a documentação.
 ---
 
@@ -68,7 +79,9 @@ Desenvolver API para gerenciamento de um E-commerce
 
 ---
 
-## 🔗Deploy
+## 🔗Deploy 
+
+<span style="#ff0000">cardeais</span>
 
 * Render: [Render: Cloud Application Hosting for Developers](https://render.com)
 
@@ -84,9 +97,19 @@ Desenvolver API para gerenciamento de um E-commerce
 Para Rodar o projeto, siga as seguintes etapas :
 
 * **Acesse o terminal:** GitBash, Windows PowerShell ou outro
-  * **Clone esse repositório:** `git clone https://github.com/LaylaJHB/MovieHouse-Back-end.git`
-  * **Instale as dependências do projeto:** rode o comando `npm install`
-* **Crie um arquivo com nome .env no diretório raiz do projeto:** `touch .env`
+  * **Clone esse repositório:**
+    ```
+    git clone https://github.com/LaylaJHB/MovieHouse-Back-end.git
+    ```
+  * **Instale as dependências do projeto:** rode o comando
+    
+    ```
+    npm install
+    ```
+* **Crie um arquivo com nome .env no diretório raiz do projeto:**
+  ```
+  touch .env
+  ```
 
 * **Acesse o arquivo .env, adicione as variáveis de ambiente e preencha as credenciais de acesso do seu Banco de Dados:**
   * `DB_HOST = ` 
@@ -95,7 +118,11 @@ Para Rodar o projeto, siga as seguintes etapas :
   * `DB_NAME = `
   * `PORT = 3306`
 * **Acesse novamente o terminal**
-  * **Inicie o projeto:** rode o comando `npm start`
+  * **Inicie o projeto:** rode o comando
+    
+     ```
+    npm start
+     ``` 
 
 ---
 ## 🧑‍🚀Desenvolvedor
