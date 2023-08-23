@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes ferramentas e tecnologias:
 #### <div>🔺 MÉTODO: PUT &curarr;</div>
 
 
-* Cadastrar filme e suas informações   <span class="badge badge-success">Success</span>
+* Cadastrar filme e suas informações   
   
   ```
   https://movie-house-ecommerce.onrender.com/character
