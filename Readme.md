@@ -89,7 +89,7 @@ Desenvolver API para gerenciamento de um E-commerce
 ---
 ## 🔗Documentação
 
-* **Documentação da API no Postman:** em desenvolvimento
+* **Documentação da API no Postman:** [Documentação da API da Movie House](https://documenter.getpostman.com/view/22349688/2s9Y5VVQ87)
 * **Ferramenta:** [Postman API Platform ](https://www.postman.com/)
 ---
 
